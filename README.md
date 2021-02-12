@@ -11,9 +11,6 @@
 
 ## I'm a Student and Developer!
 
--   🌱 I’m currently learning more about Python and I'm especially interested in AI and Machine Learning
--   🥅 2020 Goals: Learn more about Python and eventually start learning Javascript.
--   ⚡ Fun fact: I hate tomatoes
 <br />
 
 ### Languages and Tools:
