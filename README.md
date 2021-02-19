@@ -11,10 +11,6 @@
 
 ## I'm a Student and Developer!
 
--   🌱 I’m currently deepening my knowledge aboout HTML5/CSS3 and eventually start learning JavaScript.
--   🥅 2021 Goals: Nothing really
--   ⚡ Fun fact: Lorem Ipsum 😁
-
 <br />
 
 ### Languages and Tools:
